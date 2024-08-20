@@ -1,0 +1,4 @@
+[console_scripts]
+listener = simple_pub_sub.sub:main
+talker = simple_pub_sub.pub:main
+
