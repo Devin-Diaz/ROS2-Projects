@@ -1,6 +1,6 @@
-import rclpy
-from rclpy.node import Node
-from std_msgs.msg import String
+import rclpy # standard ros library to bring life into the framework
+from rclpy.node import Node # parent node object we inherit from when making custom node
+from std_msgs.msg import String # used to provide metadata about timing and source of data
 
 class MinimalPublisher(Node):
     def __init__(self):

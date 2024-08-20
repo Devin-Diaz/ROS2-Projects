@@ -1,0 +1,28 @@
+[0.917s] Invoking command in '/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/src/turtle_sim_navigation': PYTHONPATH=/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_sim_navigation build --build-base /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/build install --record /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/install.log --single-version-externally-managed install_data
+[1.068s] running egg_info
+[1.068s] writing ../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info/PKG-INFO
+[1.068s] writing dependency_links to ../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info/dependency_links.txt
+[1.069s] writing entry points to ../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info/entry_points.txt
+[1.069s] writing requirements to ../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info/requires.txt
+[1.069s] writing top-level names to ../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info/top_level.txt
+[1.071s] reading manifest file '../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info/SOURCES.txt'
+[1.072s] writing manifest file '../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info/SOURCES.txt'
+[1.072s] running build
+[1.072s] running build_py
+[1.072s] copying turtle_sim_navigation/move_turtle.py -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/build/lib/turtle_sim_navigation
+[1.072s] copying turtle_sim_navigation/set_direction_service.py -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/build/lib/turtle_sim_navigation
+[1.072s] running install
+[1.072s] running install_lib
+[1.073s] copying /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/build/lib/turtle_sim_navigation/move_turtle.py -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages/turtle_sim_navigation
+[1.073s] copying /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/build/lib/turtle_sim_navigation/set_direction_service.py -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages/turtle_sim_navigation
+[1.074s] byte-compiling /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages/turtle_sim_navigation/move_turtle.py to move_turtle.cpython-310.pyc
+[1.074s] byte-compiling /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages/turtle_sim_navigation/set_direction_service.py to set_direction_service.cpython-310.pyc
+[1.075s] running install_data
+[1.075s] running install_egg_info
+[1.076s] removing '/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages/turtle_sim_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+[1.076s] Copying ../../build/turtle_sim_navigation/turtle_sim_navigation.egg-info to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages/turtle_sim_navigation-0.0.0-py3.10.egg-info
+[1.077s] running install_scripts
+[1.093s] Installing turtle_client script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/turtle_sim_navigation
+[1.093s] Installing turtle_service script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/turtle_sim_navigation
+[1.093s] writing list of installed files to '/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/install.log'
+[1.139s] Invoked command in '/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/src/turtle_sim_navigation' returned '0': PYTHONPATH=/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_sim_navigation build --build-base /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/build install --record /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/install.log --single-version-externally-managed install_data

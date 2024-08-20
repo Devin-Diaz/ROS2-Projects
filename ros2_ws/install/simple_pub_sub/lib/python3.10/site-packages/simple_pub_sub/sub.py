@@ -17,6 +17,7 @@ class MinimalSubscriber(Node):
         )
         self.subscription # prevents unused variable warning
     
+    # function that records message when node intercepts it
     def listener_callback(self, msg):
         self.get_logger().info(f'I heard {msg.data}!')
 
