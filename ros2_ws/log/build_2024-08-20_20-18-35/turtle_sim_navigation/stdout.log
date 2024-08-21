@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing turtle_sim_navigation.egg-info/PKG-INFO
+writing dependency_links to turtle_sim_navigation.egg-info/dependency_links.txt
+writing entry points to turtle_sim_navigation.egg-info/entry_points.txt
+writing requirements to turtle_sim_navigation.egg-info/requires.txt
+writing top-level names to turtle_sim_navigation.egg-info/top_level.txt
+reading manifest file 'turtle_sim_navigation.egg-info/SOURCES.txt'
+writing manifest file 'turtle_sim_navigation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/python3.10/site-packages/turtle-sim-navigation.egg-link (link to .)
+Installing square script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/turtle_sim_navigation
+Installing turtle_client script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/turtle_sim_navigation
+Installing turtle_service script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/lib/turtle_sim_navigation
+
+Installed /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation
+running symlink_data
+symbolically linking /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/resource/turtle_sim_navigation -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/share/ament_index/resource_index/packages
+symbolically linking /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/turtle_sim_navigation/package.xml -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/turtle_sim_navigation/share/turtle_sim_navigation

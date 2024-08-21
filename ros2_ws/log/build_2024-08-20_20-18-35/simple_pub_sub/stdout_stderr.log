@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing simple_pub_sub.egg-info/PKG-INFO
+writing dependency_links to simple_pub_sub.egg-info/dependency_links.txt
+writing entry points to simple_pub_sub.egg-info/entry_points.txt
+writing requirements to simple_pub_sub.egg-info/requires.txt
+writing top-level names to simple_pub_sub.egg-info/top_level.txt
+reading manifest file 'simple_pub_sub.egg-info/SOURCES.txt'
+writing manifest file 'simple_pub_sub.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/simple_pub_sub/lib/python3.10/site-packages/simple-pub-sub.egg-link (link to .)
+Installing listener script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/simple_pub_sub/lib/simple_pub_sub
+Installing talker script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/simple_pub_sub/lib/simple_pub_sub
+
+Installed /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/simple_pub_sub
+running symlink_data
+symbolically linking /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/simple_pub_sub/resource/simple_pub_sub -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/simple_pub_sub/share/ament_index/resource_index/packages
+symbolically linking /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/simple_pub_sub/package.xml -> /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/simple_pub_sub/share/simple_pub_sub

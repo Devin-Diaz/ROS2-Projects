@@ -1,0 +1,18 @@
+[0.915s] Invoking command in '/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/publisher_package': PYTHONPATH=/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/publisher_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/publisher_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/publisher_package/build --no-deps symlink_data
+[1.081s] running develop
+[1.161s] running egg_info
+[1.161s] writing publisher_package.egg-info/PKG-INFO
+[1.162s] writing dependency_links to publisher_package.egg-info/dependency_links.txt
+[1.162s] writing entry points to publisher_package.egg-info/entry_points.txt
+[1.162s] writing requirements to publisher_package.egg-info/requires.txt
+[1.162s] writing top-level names to publisher_package.egg-info/top_level.txt
+[1.163s] reading manifest file 'publisher_package.egg-info/SOURCES.txt'
+[1.163s] writing manifest file 'publisher_package.egg-info/SOURCES.txt'
+[1.164s] running build_ext
+[1.165s] Creating /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/publisher_package/lib/python3.10/site-packages/publisher-package.egg-link (link to .)
+[1.165s] Installing image_publisher script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/publisher_package/lib/publisher_package
+[1.165s] Installing image_subscriber script to /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/publisher_package/lib/publisher_package
+[1.166s] 
+[1.166s] Installed /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/publisher_package
+[1.166s] running symlink_data
+[1.224s] Invoked command in '/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/publisher_package' returned '0': PYTHONPATH=/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/publisher_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/install/publisher_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/build/publisher_package/build --no-deps symlink_data

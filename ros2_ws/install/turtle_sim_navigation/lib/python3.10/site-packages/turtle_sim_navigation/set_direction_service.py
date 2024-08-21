@@ -4,7 +4,17 @@ from geometry_msgs.msg import Twist # used to describe velocity commands for mob
 from std_srvs.srv import SetBool 
 
 '''
-So far in my ROS 2 journey I'm realizing, 
+In this script, I'm continuing to see patterns in how nodes are constructed in ROS 2. The DirectionService class extends the Node class, making it a ROS 2 node named 'direction_service'.
+
+Publisher Setup: We create a publisher that will send velocity commands (Twist messages) to the topic /turtle1/cmd_vel with a queue size of 10. This means our node can send messages to control the turtle's movement.
+
+Service Setup: The service is created using create_service, with the service type SetBool. This service allows other nodes to send True or False requests to the 'set_direction' service. The requests determine whether the turtle should move forward or rotate.
+
+Callback Function: The core logic is in set_direction_callback. Here, we check the incoming request:
+
+If True, the turtle moves forward (linear.x = 2.5).
+If False, the turtle rotates (angular.z = 1.0).
+After determining the movement, we publish the Twist message and return a success response.
 '''
 
 class DirectionService(Node):

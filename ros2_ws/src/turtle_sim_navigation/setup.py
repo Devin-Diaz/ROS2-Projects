@@ -22,6 +22,8 @@ setup(
         'console_scripts': [
             'turtle_client = turtle_sim_navigation.move_turtle:main',
             'turtle_service = turtle_sim_navigation.set_direction_service:main',
+            'square = turtle_sim_navigation.turtle_square:main',
+            'triangle = turtle_sim_navigation.turtle_triangle:main',
         ],
     },
 )

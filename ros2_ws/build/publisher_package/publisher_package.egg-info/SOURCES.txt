@@ -11,7 +11,11 @@ setup.py
 publisher_package/__init__.py
 publisher_package/image_publisher.py
 publisher_package/image_subscriber.py
+publisher_package.egg-info/PKG-INFO
+publisher_package.egg-info/SOURCES.txt
+publisher_package.egg-info/dependency_links.txt
+publisher_package.egg-info/entry_points.txt
+publisher_package.egg-info/requires.txt
+publisher_package.egg-info/top_level.txt
+publisher_package.egg-info/zip-safe
 resource/publisher_package
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py

@@ -12,6 +12,10 @@ resource/simple_pub_sub
 simple_pub_sub/__init__.py
 simple_pub_sub/pub.py
 simple_pub_sub/sub.py
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
+simple_pub_sub.egg-info/PKG-INFO
+simple_pub_sub.egg-info/SOURCES.txt
+simple_pub_sub.egg-info/dependency_links.txt
+simple_pub_sub.egg-info/entry_points.txt
+simple_pub_sub.egg-info/requires.txt
+simple_pub_sub.egg-info/top_level.txt
+simple_pub_sub.egg-info/zip-safe
