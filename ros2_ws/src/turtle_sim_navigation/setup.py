@@ -24,6 +24,7 @@ setup(
             'turtle_service = turtle_sim_navigation.set_direction_service:main',
             'square = turtle_sim_navigation.turtle_square:main',
             'triangle = turtle_sim_navigation.turtle_triangle:main',
+            'avoid_obs = turtle_sim_navigation.turtle_obstacle_avoidance:main',
         ],
     },
 )

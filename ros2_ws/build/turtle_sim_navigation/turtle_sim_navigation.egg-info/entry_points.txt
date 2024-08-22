@@ -1,4 +1,5 @@
 [console_scripts]
+avoid_obs = turtle_sim_navigation.turtle_obstacle_avoidance:main
 square = turtle_sim_navigation.turtle_square:main
 triangle = turtle_sim_navigation.turtle_triangle:main
 turtle_client = turtle_sim_navigation.move_turtle:main

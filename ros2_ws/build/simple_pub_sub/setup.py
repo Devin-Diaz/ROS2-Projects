@@ -1,1 +1,0 @@
-/home/devin/Documents/Github-Projects/ROS2_Projects/ros2_ws/src/simple_pub_sub/setup.py
